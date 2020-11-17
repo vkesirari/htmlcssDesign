@@ -1,0 +1,77 @@
+@font-face {
+  font-family: Brandon;
+  src: url("/Font/Brandon_bld.otf");
+}
+@font-face {
+  font-family: Brandon_it;
+  src: url("/Font/Brandon_bld_it.otf");
+}
+@font-face {
+  font-family: Brandon_blk_it;
+  src: url("/Font/Brandon_blk_it.otf");
+}
+@font-face {
+  font-family: Brandon_blk;
+  src: url("/Font/Brandon_blk.otf");
+}
+@font-face {
+  font-family: Brandon_med;
+  src: url("/Font/Brandon_med_it.otf");
+}
+.container {
+  background-color: white;
+}
+.c_of_reco {
+  color: #009aeb;
+  font-weight: bold;
+  font-family: Brandon;
+  margin-bottom: 0px;
+}
+.c_of_warrior {
+  color: red;
+  font-family: Brandon_it;
+}
+.c_of_presented {
+  color: black;
+  font-size: large;
+  /* font-family: Brandon; */
+}
+.congrats {
+  color: red;
+  font-family: Brandon_it;
+}
+.name_of {
+  color: #009aeb;
+  font-family: Brandon_med;
+  font-weight: bold;
+}
+p {
+  margin-bottom: 0px;
+}
+.from_div {
+  margin-top: 50px;
+}
+.div_of_presented {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.div_of_reco {
+  margin-top: 60px;
+}
+/* .image_div {
+
+} */
+hr {
+  /* background-color: gray !important; */
+  border: 1px solid lightgray;
+  border-radius: 5px;
+}
+.commit_of {
+  font-family: system-ui;
+  letter-spacing: -1px;
+  /* font-weight: bold; */
+}
+.name_zindagi {
+  font-family: Brandon_med;
+  font-size: large;
+}
